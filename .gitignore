@@ -1,0 +1,15 @@
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
+
+# Decompressed copy of the distributed Study 3 data
+data/study3_country_subfield_year_panel.csv
+
+# Stata and Python working files
+*.dta
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+Thumbs.db
